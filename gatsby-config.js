@@ -7,10 +7,10 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Lydia Xythali',
     subtitle:
       'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+    copyright: '© 2020. All rights reserved.',
     disqusShortname: '',
     menu: [
       {
@@ -27,8 +27,8 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Lydia Xythali',
+      email: 'lydiawestpoint@gmail.com',
       telegram: '#',
       twitter: '#',
       github: '#',
