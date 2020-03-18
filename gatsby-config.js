@@ -30,7 +30,7 @@ module.exports = {
       name: 'Lydia Xythali',
       email: 'lydiawestpoint@gmail.com',
       telegram: '#',
-      twitter: 'https://twitter.com/commonlydia',
+      twitter: 'commonlydia',
       github: '#',
       rss: '#',
       vk: '#',
