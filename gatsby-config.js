@@ -1,7 +1,7 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://lydiaxythali.com'
 
 module.exports = {
   siteMetadata: {
@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: 'Lydia Xythali',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Hot sauce aficionado.',
     copyright: '© 2020. All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -30,7 +30,7 @@ module.exports = {
       name: 'Lydia Xythali',
       email: 'lydiawestpoint@gmail.com',
       telegram: '#',
-      twitter: '#',
+      twitter: 'https://twitter.com/commonlydia',
       github: '#',
       rss: '#',
       vk: '#',
