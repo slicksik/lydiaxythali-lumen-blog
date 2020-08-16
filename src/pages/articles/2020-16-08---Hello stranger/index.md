@@ -62,7 +62,7 @@ And [Amy](https://www.youtube.com/playlist?list=OLAK5uy_kNZgLOFjk0m9wf8926ixxdO7
 
 
 ###Misc:
-I made a thing. I’ll be making more of those. Hopefully they’ll be slicker in the future, at least file size- and format-wise. SPITE #1 was literally thrown together: pen and paper, scanned with an Ipad, noise added in Photoshop, terribly converted to pdf. But hey, it is alive.
+I made a thing. I’ll be making more of those. Hopefully they’ll be slicker in the future, at least file size- and format-wise. [SPITE #1](spitezine01.pdf) was literally thrown together: pen and paper, scanned with an Ipad, noise added in Photoshop, terribly converted to pdf. But hey, it is alive.
 
 You should check out [Excuse Me mag](http://franticflicker.com/) and [code::art zine](https://code-art.xyz/issues/).
 
