@@ -6,7 +6,7 @@ draft: false
 path: "/posts/hello-stranger/"
 category: "general"
 tags:
-  - "life" "zine"
+  - "zine"
 description: "It’s been a while. At this point, everyone’s unfamiliar to me."
 ---
 
